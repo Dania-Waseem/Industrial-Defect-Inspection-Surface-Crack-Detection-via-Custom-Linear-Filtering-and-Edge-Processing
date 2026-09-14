@@ -1,6 +1,6 @@
 # Industrial Defect Inspection & Surface Crack Detection via Custom Linear Filtering and Edge Processing
 
-A from-scratch NumPy implementation of a classical computer vision pipeline for industrial defect inspection, covering 2D/3D convolution, Gaussian smoothing, unsharp masking, pooling, and a full 4-stage Canny edge detector — built without relying on OpenCV's built-in filtering functions.
+A from-scratch NumPy implementation of a classical computer vision pipeline for industrial defect inspection, covering 2D/3D convolution, Gaussian smoothing, unsharp masking, pooling, and a full 4-stage Canny edge detector built without relying on OpenCV's built-in filtering functions.
 
 ## Overview
 
